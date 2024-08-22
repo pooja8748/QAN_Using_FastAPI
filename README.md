@@ -2,6 +2,9 @@
 
 A FastAPI application that allows users to input a paragraph and ask questions based on that paragraph. The bot responds with answers derived from the provided text using pre-defined logic or NLP models.
 
+![Screenshot 2024-08-23 015056](https://github.com/user-attachments/assets/56b514a2-04d9-444d-9a58-223d2a89dcd7)
+
+
 ## Features
 
 - **Input Paragraph**: Provide a block of text for the bot to analyze.
