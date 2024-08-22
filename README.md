@@ -130,5 +130,3 @@ For questions or feedback, contact poojaramani8748@gmail.com.
 
 - **Improve NLP Capabilities**: Integrate advanced NLP models for more accurate responses.
 - **Deploy on Cloud Platforms**: Provide deployment guides for AWS, Azure, or Heroku.
-
-```
