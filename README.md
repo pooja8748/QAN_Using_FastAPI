@@ -105,17 +105,13 @@ A FastAPI application that allows users to input a paragraph and ask questions b
 - **Unit Tests**: Add unit tests for your API endpoints to ensure proper functionality.
 - **Integration Tests**: Ensure that different parts of the application work together as expected.
 
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ### Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements. For bug reports or feature requests, open an issue on GitHub.
 
 ### Contact
 
-For questions or feedback, contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, contact poojaramani8748@gmail.com.
 
 ## Acknowledgments
 
@@ -126,9 +122,6 @@ For questions or feedback, contact [your-email@example.com](mailto:your-email@ex
 
 - **How do I modify the question-answering logic?**
   - Edit the `answer_question` function in `app.py` to update the logic for answering questions.
-
-- **What should I do if I encounter an issue?**
-  - Check the [issues](https://github.com/your-repo-url/issues) page for known issues or open a new issue.
 
 ## Changelog
 
