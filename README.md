@@ -1,6 +1,5 @@
-Certainly! Here's a `README.md` file tailored to a project that involves a FastAPI application for a Q&A bot, where users can input a paragraph, ask questions based on that paragraph, and get responses.
 
-### `README.md` Code
+### QAN_using_FastApi
 
 ```markdown
 # FastAPI Q&A Bot
