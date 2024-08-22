@@ -1,6 +1,3 @@
-
-### QAN_using_FastApi
-
 # FastAPI Q&A Bot
 
 A FastAPI application that allows users to input a paragraph and ask questions based on that paragraph. The bot responds with answers derived from the provided text using pre-defined logic or NLP models.
